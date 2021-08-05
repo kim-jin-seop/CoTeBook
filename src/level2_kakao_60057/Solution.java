@@ -2,11 +2,7 @@ package level2_kakao_60057;
 
 public class Solution {
 
-    public static void main(String args[]){
-        System.out.println(solution("aabbaccc"));
-    }
-
-    public static int solution(String s) {
+    public int solution(String s) {
         int min = s.length();
         for (int count = 1; count <= s.length() / 2; count++) {
             int length = findLength(s, count);
@@ -16,11 +12,13 @@ public class Solution {
         return min;
     }
 
-    private static int findLength(String s, int count) {
+    private int findLength(String s, int count) {
         int length = 0;
         String before = "";
         boolean isFirst = true;
         for (int i = 0; i < s.length(); i += count) {
+            if(i+count > s.length())
+                return length + (s.length()-i);
             if (!before.equals(s.substring(i, i + count))) {
                 before = s.substring(i, i + count);
                 length += count;
@@ -30,9 +28,6 @@ public class Solution {
                     length += 1;
                 isFirst = false;
             }
-
-            if(i+count > s.length())
-                return length + (s.length()-i);
         }
         return length;
     }
