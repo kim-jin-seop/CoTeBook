@@ -14,21 +14,19 @@ public class Solution {
 
     private int findLength(String s, int count) {
         int length = 0;
+        int numCount = 1;
         String before = "";
-        boolean isFirst = true;
         for (int i = 0; i < s.length(); i += count) {
             if(i+count > s.length())
-                return length + (s.length()-i);
+                return length + (s.length()-i) + (numCount != 1 ? String.valueOf(numCount).length() : 0);
             if (!before.equals(s.substring(i, i + count))) {
                 before = s.substring(i, i + count);
-                length += count;
-                isFirst = true;
+                length += count + (numCount != 1 ? String.valueOf(numCount).length() : 0);
+                numCount = 1;
             } else {
-                if (isFirst)
-                    length += 1;
-                isFirst = false;
+                numCount++;
             }
         }
-        return length;
+        return length + (numCount != 1 ? String.valueOf(numCount).length() : 0);
     }
 }
