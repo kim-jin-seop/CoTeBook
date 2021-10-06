@@ -13,10 +13,10 @@ public class Main {
             arr[i] = sc.nextInt();
 
         Arrays.sort(arr);
-        if (count == 1)
-            System.out.println(arr[0] * arr[0]);
+        if(count == 1)
+            System.out.println(arr[0]*arr[0]);
 
         else
-            System.out.println(arr[0] * arr[count - 1]);
+        System.out.println(arr[0]*arr[count-1]);
     }
 }
