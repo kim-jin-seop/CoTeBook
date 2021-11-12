@@ -26,7 +26,7 @@ public class Main {
     public static void recursive(int[][] num, boolean[][] paper, int n, int m, int xIdx, int yIdx){
         if(yIdx == m){
             int sum = 0;
-            for(int i = 0; i< n; i++){
+            for(int i = 0; i < n; i++){
                 int cur = 0;
                 for(int j = 0; j <m; j++){
                     if(paper[i][j]){
@@ -38,14 +38,13 @@ public class Main {
                     }
                 }
                 sum += cur;
-                cur = 0;
             }
 
-            for(int i = 0; i < m; i++ ){
+            for(int j = 0; j < m; j++ ){
                 int cur = 0;
-                for(int j = 0; j < n; j++){
-                    if(!paper[j][i]){
-                        cur = cur*10 + num[j][i];
+                for(int i = 0; i < n; i++){
+                    if(!paper[i][j]){
+                        cur = cur*10 + num[i][j];
                     }
                     else{
                         sum += cur;
@@ -53,20 +52,20 @@ public class Main {
                     }
                 }
                 sum += cur;
-                cur = 0;
             }
             if(max < sum){
                 max = sum;
             }
             return;
         }
+        paper[xIdx][yIdx] = true;
         if(xIdx == n-1){
             recursive(num,paper,n,m,0,yIdx+1);
         }
         else {
             recursive(num, paper, n, m, xIdx + 1, yIdx);
         }
-        paper[xIdx][yIdx] = true;
+        paper[xIdx][yIdx] = false;
         if(xIdx == n-1){
             recursive(num,paper,n,m,0,yIdx+1);
         }
