@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         final int sawLength = 8;
-        backjoon_15662.Main.Gear[] gears = new backjoon_15662.Main.Gear[4];
+        Gear[] gears = new Gear[4];
 
         for (int i = 0; i < 4; i++) {
             int[] sawTooth = new int[sawLength];
@@ -15,7 +15,7 @@ public class Main {
             for (int j = 0; j < sawLength; j++) {
                 sawTooth[j] = line.charAt(j) - '0';
             }
-            gears[i] = new backjoon_15662.Main.Gear(sawTooth);
+            gears[i] = new Gear(sawTooth);
         }
 
         int moveCount = sc.nextInt();
@@ -42,7 +42,7 @@ public class Main {
         System.out.println(count);
     }
 
-    public static void IterMovement(int gearNum, int movement, backjoon_15662.Main.Gear[] gears) {
+    public static void IterMovement(int gearNum, int movement, Gear[] gears) {
         int left = gears[gearNum].getLeftSawTooth();
         int right = gears[gearNum].getRightSawTooth();
         movement(gearNum, movement, gears);
@@ -70,7 +70,7 @@ public class Main {
         }
     }
 
-    private static void movement(int gearNum, int movement, backjoon_15662.Main.Gear[] gears) {
+    private static void movement(int gearNum, int movement, Gear[] gears) {
         if (movement == 1) {
             gears[gearNum].moveRight();
         } else {
