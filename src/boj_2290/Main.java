@@ -97,7 +97,6 @@ public class Main {
             segmentPrint(x,y,size,display,6);
             segmentPrint(x,y,size,display,7);
         }
-
     }
 
     public static void segmentPrint(int x, int y, int size, char[][] display, int segNum){
@@ -142,5 +141,4 @@ public class Main {
             }
         }
     }
-
 }
