@@ -1,57 +1,59 @@
 package boj_20055;
 
-import java.util.*;
+import java.util.Scanner;
 
-class Main {
-    static void rotate(int[] a) {
-        int temp = a[a.length-1];
-        for (int i=a.length-1; i>0; i--) {
-            a[i] = a[i-1];
-        }
-        a[0] = temp;
-    }
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int k = sc.nextInt();
-        int[] a = new int[2*n];
-        for (int i=0; i<2*n; i++) {
-            a[i] = sc.nextInt();
+        int[] durability = new int[2*n];
+        for(int i =0; i< 2*n; i++){
+            durability[i] = sc.nextInt();
         }
-        int[] box = new int[2*n];
-        int zero = 0;
-        for (int t=1;; t++) {
-            rotate(a);
-            rotate(box);
-            if (box[n-1] == 1) {
-                box[n-1] = 0;
-            }
-            for (int i=n-2; i>=0; i--) {
-                if (box[i] == 1) {
-                    if (box[i+1] == 0 && a[i+1] > 0) {
-                        box[i+1] = 1;
-                        box[i] = 0;
-                        a[i+1] -= 1;
-                        if (a[i+1] == 0) {
-                            zero += 1;
-                        }
+
+        boolean[] hasRobot = new boolean[2*n];
+        int stage = 0;
+        int zeroDurabilityCount = 0;
+        int putPosition = 0;
+        int removePosition = n;
+
+        while(zeroDurabilityCount != k){
+            // 한칸 회전
+            putPosition = (putPosition-1+(2*n))%(2*n);
+            removePosition = (removePosition-1+(2*n))%(2*n);
+            if(hasRobot[removePosition])
+                hasRobot[removePosition] = false;
+
+            //로봇 한칸 이동
+            for(int i = 0; i <= n; i++){
+                int pos = (removePosition-i+2*n)%(2*n);
+                if(hasRobot[pos]){
+                    if(hasRobot[(pos+1)%(2*n)]) continue;
+                    if(durability[(pos+1)%(2*n)] == 0) continue;
+
+                    hasRobot[pos] = false;
+                    hasRobot[(pos+1)%(2*n)] = true;
+                    durability[(pos+1)%(2*n)] -=1;
+                    if(durability[(pos+1)%(2*n)] == 0){
+                        zeroDurabilityCount += 1;
                     }
                 }
             }
-            if (box[n-1] == 1) {
-                box[n-1] = 0;
-            }
-            if (a[0] > 0) {
-                box[0] = 1;
-                a[0] -= 1;
-                if (a[0] == 0) {
-                    zero += 1;
+            if(hasRobot[removePosition])
+                hasRobot[removePosition] = false;
+
+            //로봇 올리기
+            if(durability[putPosition] != 0){
+                hasRobot[putPosition] = true;
+                durability[putPosition] -= 1;
+                if(durability[putPosition] == 0){
+                    zeroDurabilityCount += 1;
                 }
             }
-            if (zero >= k) {
-                System.out.println(t);
-                break;
-            }
+            stage++;
         }
+
+        System.out.println(stage);
     }
 }
