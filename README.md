@@ -36,21 +36,11 @@ public static void main(String args[]){
 <table style="border-collapse: collapse; width: 100%; height: 54px;" border="1" data-ke-align="alignLeft" data-ke-style="style14">
 <tbody align ="center">
 <tr style="height: 18px;">
-<td style="width: 12.0349%; height: 36px;" rowspan="2">일자</td>
+<td style="width: 12.0349%; height: 36px;">일자</td>
 <td style="width: 25.4651%; height: 18px;" colspan="2">문제 1</td>
 <td style="width: 25%; height: 18px;" colspan="2">문제 2</td>
 <td style="width: 21.2791%; height: 18px;" colspan="2">문제 3</td>
 <td style="width: 16.2209%; height: 18px;" colspan="2">문제 4</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 12.9651%; height: 18px;">문제 링크</td>
-<td style="width: 12.5%; height: 18px;">해설 링크</td>
-<td style="width: 12.5%; height: 18px;">문제 링크</td>
-<td style="width: 12.5%; height: 18px;">해설 링크</td>
-<td style="width: 12.5%; height: 18px;">문제 링크</td>
-<td style="width: 8.77907%; height: 18px;">해설 링크</td>
-<td style="width: 4.88372%; height: 18px;">문제 링크</td>
-<td style="width: 11.3372%; height: 18px;">해설 링크</td>
 </tr>
 <tr style="height: 18px;">
   <td style="width: 12.0349%; height: 18px;">
