@@ -86,7 +86,7 @@ public static void main(String args[]){
 </table>
 
 ## 👀 Contact Me
-편하게 메일 혹은 블로그에 오셔서 댓글 남겨주시면 감사하겠습니다 :)
+편하게 메일 혹은 블로그에 오셔서 댓글 남겨주시면 감사하겠습니다 :)   
   <a href="https://cnu-jinseop.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-gray?style=flat-square&logo=TV%20Time&logoColor=white&link=https://cnu-jinseop.tistory.com/"/></a>
   <a href="mailto:tjq2702@naver.com" target="_blank"><img src="https://img.shields.io/badge/tjq2702@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=tjq2702@naver.com"/></a>
   <a href="https://www.facebook.com/JinSeopDev" target = "_blank"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/JinSeopDev"/></a>
