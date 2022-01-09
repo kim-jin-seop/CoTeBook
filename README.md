@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>👨🏻‍💻알고리즘 문제 해결 린지👨🏻‍💻</h2>
+  <h2>👨🏻‍💻알고리즘 문제 해결 챌린지👨🏻‍💻</h2>
   <p>매주 4문제 코딩테스트를 해결하고 풀이</p>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-jin-seop%2Fcodingtest-problem-solving&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <img src="https://img.shields.io/github/stars/kim-jin-seop/codingtest-problem-solving" alt="stars"/>
@@ -32,7 +32,7 @@ public static void main(String args[]){
 - 매주 4문제씩 해결하고 멋진 풀이법을 공유하실 분 환영해요!
 - 저의 코드에서 개선되면 좋을 점들은 언제든지 남겨주세요!
 
-## 📖 린지 일지
+## 📖 챌린지 일지
 <table style="border-collapse: collapse; width: 100%; height: 54px;" border="1" data-ke-align="alignLeft" data-ke-style="style14">
 <tbody align ="center">
 <tr style="height: 18px;">
