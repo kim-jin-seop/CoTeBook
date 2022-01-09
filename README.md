@@ -50,13 +50,13 @@ public static void main(String args[]){
     <a href="https://programmers.co.kr/learn/courses/30/lessons/1829" target='_blank' >카카오 컬리링북</a>
   </td>
   <td style="width: 12.5%; height: 18px;">
-    <a href="https://cnu-jinseop.tistory.com/100?category=944632" target='_blank'>해설확인</a> 
+    <a href="https://cnu-jinseop.tistory.com/100?category=944632" target='_blank'>해설</a> 
   </td> 
   <td style="width: 12.5%; height: 18px;">
      <a href="https://www.acmicpc.net/problem/14888" target='_blank'>연산자 끼워넣기</a>
   </td>
   <td style="width: 12.5%; height: 18px;">
-    <a href="https://cnu-jinseop.tistory.com/102?category=933359" target='_blank'>해설확인</a> 
+    <a href="https://cnu-jinseop.tistory.com/102?category=933359" target='_blank'>해설</a> 
   </td> 
   <td style="width: 12.5%; height: 18px;">
     ❌
@@ -86,7 +86,7 @@ public static void main(String args[]){
 
 <a href="https://programmers.co.kr/learn/courses/30/lessons/1829" target='_blank'>문제 제목</a>
 
-<a href="https://cnu-jinseop.tistory.com/102?category=933359" target='_blank'>해설확인</a> 
+<a href="https://cnu-jinseop.tistory.com/102?category=933359" target='_blank'>해설</a> 
 
 <tr style="height: 18px;">
   <td style="width: 12.0349%; height: 18px;">
