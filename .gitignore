@@ -21,3 +21,5 @@ bin/*.txt
 # /** matches 0 or more directories
 doc/**/*.pdf
 .idea/workspace.xml
+backjoon/.idea/workspace.xml
+backjoon/out/production/backjoon/.idea/workspace.xml
