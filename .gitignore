@@ -24,3 +24,8 @@ doc/**/*.pdf
 backjoon/.idea/workspace.xml
 backjoon/out/production/backjoon/.idea/workspace.xml
 backjoon/.idea/misc.xml
+backjoon/.idea/vcs.xml
+.idea/vcs.xml
+.DS_Store
+*.iml
+*.xml
