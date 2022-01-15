@@ -94,7 +94,7 @@ public static void main(String args[]){
     <a href="https://cnu-jinseop.tistory.com/109">해설</a>
   </td> 
   <td style="width: 4.88372%; height: 18px;">
-    <a href="">오픈채팅방</a>
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/42888">오픈채팅방</a>
   </td> 
   <td style="width: 11.3372%; height: 18px;">
     <a href="https://cnu-jinseop.tistory.com/110">해설</a>
