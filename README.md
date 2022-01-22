@@ -6,20 +6,6 @@
   <img src="https://img.shields.io/github/forks/kim-jin-seop/codingtest-problem-solving" alt="forks"/>
 </div>
 
-```java
-public static void main(String args[]){
-    CodingTest codingTest = new CodingTest();
-    while(true){
-        codingTest.makeProblem(4);
-        List<Problem> problems = codingTest.solveAll();
-        for(Problem problem : problems){
-            problem.solve();
-        }
-    }
-}
-
-```
-
 ---  
 
 ## 👋 챌린지 소개
@@ -50,26 +36,26 @@ public static void main(String args[]){
     <a href="https://programmers.co.kr/learn/courses/30/lessons/1829" target='_blank' >카카오 컬리링북</a>
   </td>
   <td style="width: 12.5%; height: 18px;">
-    <a href="https://cnu-jinseop.tistory.com/100?category=944632" target='_blank'>해설</a> 
-  </td> 
+    <a href="https://cnu-jinseop.tistory.com/100?category=944632" target='_blank'>해설</a>
+  </td>
   <td style="width: 12.5%; height: 18px;">
      <a href="https://www.acmicpc.net/problem/14888" target='_blank'>연산자 끼워넣기</a>
   </td>
   <td style="width: 12.5%; height: 18px;">
-    <a href="https://cnu-jinseop.tistory.com/102?category=933359" target='_blank'>해설</a> 
-  </td> 
+    <a href="https://cnu-jinseop.tistory.com/102?category=933359" target='_blank'>해설</a>
+  </td>
   <td style="width: 12.5%; height: 18px;">
     ❌
-  </td> 
+  </td>
   <td style="width: 8.77907%; height: 18px;">
     ❌
-  </td> 
+  </td>
   <td style="width: 4.88372%; height: 18px;">
     ❌
-  </td> 
+  </td>
   <td style="width: 11.3372%; height: 18px;">
     ❌
-  </td> 
+  </td>
 </tr>
 <tr style="height: 18px;">
   <td style="width: 12.0349%; height: 18px;">
@@ -80,27 +66,57 @@ public static void main(String args[]){
   </td>
   <td style="width: 12.5%; height: 18px;">
     <a href="https://cnu-jinseop.tistory.com/106">해설</a>
-  </td> 
+  </td>
   <td style="width: 12.5%; height: 18px;">
   <a href="https://www.acmicpc.net/problem/4574">스도미노쿠</a>
   </td>
   <td style="width: 12.5%; height: 18px;">
-   <a href="https://cnu-jinseop.tistory.com/108?category=933359">해설</a> 
-  </td> 
+   <a href="https://cnu-jinseop.tistory.com/108?category=933359">해설</a>
+  </td>
   <td style="width: 12.5%; height: 18px;">
     <a href="https://programmers.co.kr/learn/courses/30/lessons/92334">신고결과 받기</a>
-  </td> 
+  </td>
   <td style="width: 8.77907%; height: 18px;">
     <a href="https://cnu-jinseop.tistory.com/109">해설</a>
-  </td> 
+  </td>
   <td style="width: 4.88372%; height: 18px;">
     <a href="https://programmers.co.kr/learn/courses/30/lessons/42888">오픈채팅방</a>
-  </td> 
+  </td>
   <td style="width: 11.3372%; height: 18px;">
     <a href="https://cnu-jinseop.tistory.com/110">해설</a>
-  </td> 
+  </td>
+
+  <tr style="height: 18px;">
+  <td style="width: 12.0349%; height: 18px;">
+    22년 </br>3주차(01.16 ~ 01.22)
+  </td>
+  <td style="width: 12.9651%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/1835">단체사진 찍기</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/112">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/92341">주차요금 계산</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+   <a href="https://cnu-jinseop.tistory.com/114">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/92335#">k진수에서 소수 개수 구하기</a>
+  </td>
+  <td style="width: 8.77907%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/115">해설</a>
+  </td>
+  <td style="width: 4.88372%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/92342">양궁대회</a>
+  </td>
+  <td style="width: 11.3372%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/118">해설</a>
+  </td>
 </tr>
-  
+</tr>
+
 </tbody>
 </table>
 
@@ -111,8 +127,8 @@ public static void main(String args[]){
   <a href="https://cnu-jinseop.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-gray?style=flat-square&logo=TV%20Time&logoColor=white&link=https://cnu-jinseop.tistory.com/"/></a>
   <a href="mailto:tjq2702@naver.com" target="_blank"><img src="https://img.shields.io/badge/tjq2702@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=tjq2702@naver.com"/></a>
   <a href="https://www.facebook.com/JinSeopDev" target = "_blank"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/JinSeopDev"/></a>
-  
-  
+
+
 <!-- 매주 템플릿
 
 <tr style="height: 18px;">
@@ -124,24 +140,24 @@ public static void main(String args[]){
   </td>
   <td style="width: 12.5%; height: 18px;">
     <a href="">해설</a>
-  </td> 
+  </td>
   <td style="width: 12.5%; height: 18px;">
     <a href=""></a>
   </td>
   <td style="width: 12.5%; height: 18px;">
    <a href="">해설</a>
-  </td> 
+  </td>
   <td style="width: 12.5%; height: 18px;">
     <a href=""></a>
-  </td> 
+  </td>
   <td style="width: 8.77907%; height: 18px;">
     <a href="">해설</a>
-  </td> 
+  </td>
   <td style="width: 4.88372%; height: 18px;">
     <a href=""></a>
-  </td> 
+  </td>
   <td style="width: 11.3372%; height: 18px;">
     <a href="">해설</a>
-  </td> 
+  </td>
 </tr>
 -->
