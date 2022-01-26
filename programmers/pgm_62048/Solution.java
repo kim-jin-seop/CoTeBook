@@ -4,7 +4,7 @@ class Solution {
     public long solution(int w, int h) {
         long answer = 1;
         int gcd = gcd(w, h);
-        long remove = ((w / gcd) + (h / gcd) - 1) * gcd;
+        long remove = ((h / gcd) + (w / gcd) - 1) * gcd;
         answer = ((long)w * (long)h) - remove;
         return answer;
     }
