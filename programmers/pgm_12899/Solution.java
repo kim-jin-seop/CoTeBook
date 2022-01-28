@@ -10,7 +10,7 @@ class Solution {
             list.add(n%3);
             n = n / 3;
         }
-
+        
 
         for(int i = 0; i < list.size(); i++){
             answer = list.get(i) + answer;
