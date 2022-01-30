@@ -1,43 +1,30 @@
 package pgm_42626;
 
-import java.util.ArrayList;
-import java.util.Collections;
+import java.util.PriorityQueue;
 
 class Solution {
     public int solution(int[] scoville, int K) {
         int answer = 0;
-        ArrayList<Integer> scovilles = new ArrayList<>();
+
+        PriorityQueue<Integer> minHeap = new PriorityQueue<>();
 
         for(int i = 0 ; i < scoville.length; i++){
-            scovilles.add(scoville[i]);
+            minHeap.add(scoville[i]);
         }
-        Collections.sort(scovilles);
 
-        while(scovilles.get(0) <= K){
+        while(minHeap.peek() < K){
             answer ++;
-
-            int second = scovilles.remove(1);
-            int first = scovilles.remove(0);
+            int first = minHeap.remove();
+            int second = minHeap.remove();
             int newSpicy = first + 2*second;
 
-            if(scovilles.size() == 0)
+            if(minHeap.size() == 0)
                 if(newSpicy < K)
                     return -1;
                 else
                     return answer;
 
-            for(int i = 0; i < scovilles.size(); i++){
-                int value = scovilles.get(i);
-                if(value > newSpicy){
-                    scovilles.add(i,newSpicy);
-                    break;
-                }
-                if(i == scovilles.size()-1) {
-                    scovilles.add(newSpicy);
-                    break;
-                }
-            }
-
+            minHeap.add(newSpicy);
         }
 
         return answer;
