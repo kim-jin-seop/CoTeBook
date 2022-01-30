@@ -139,10 +139,10 @@
     <a href="https://cnu-jinseop.tistory.com/121">해설</a>
   </td>
   <td style="width: 4.88372%; height: 18px;">
-    <a href="https://cnu-jinseop.tistory.com/124">더 맵게</a>
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/42626#">더 맵게</a>
   </td>
   <td style="width: 11.3372%; height: 18px;">
-    <a href="">해설</a>
+    <a href="https://cnu-jinseop.tistory.com/124">해설</a>
   </td>
 </tr>
 
