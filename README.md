@@ -30,7 +30,7 @@
 </tr>
 <tr style="height: 18px;">
   <td style="width: 12.0349%; height: 18px;">
-    22년 1월 2주차</br>(01.02 ~ 01.08)
+    22년 2주차</br>(01.02 ~ 01.08)
   </td>
   <td style="width: 12.9651%; height: 18px;">
     <a href="https://programmers.co.kr/learn/courses/30/lessons/1829" target='_blank' >카카오 컬리링북</a>
@@ -59,7 +59,7 @@
 </tr>
 <tr style="height: 18px;">
   <td style="width: 12.0349%; height: 18px;">
-    22년 1월 3주차 </br>(01.09 ~ 01.15)
+    22년 3주차 </br>(01.09 ~ 01.15)
   </td>
   <td style="width: 12.9651%; height: 18px;">
     <a href="https://www.acmicpc.net/problem/16197">두 동전</a>
@@ -145,6 +145,38 @@
     <a href="https://cnu-jinseop.tistory.com/124">해설</a>
   </td>
 </tr>
+
+
+<tr style="height: 18px;">
+  <td style="width: 12.0349%; height: 18px;">
+    22년 </br>5주차(01.30 ~ 02.05)
+  </td>
+  <td style="width: 12.9651%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/125">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/12973">짝지어 제거하기</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+   <a href="https://cnu-jinseop.tistory.com/126">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/77485">행렬 테두리 회전하기</a>
+  </td>
+  <td style="width: 8.77907%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/127">해설</a>
+  </td>
+  <td style="width: 4.88372%; height: 18px;">
+    <a href=""></a>
+  </td>
+  <td style="width: 11.3372%; height: 18px;">
+    <a href="">해설</a>
+  </td>
+</tr>
+
 
 </tbody>
 </table>
