@@ -18,6 +18,14 @@
 - 매주 4문제씩 해결하고 멋진 풀이법을 공유하실 분 환영해요!
 - 저의 코드에서 개선되면 좋을 점들은 언제든지 남겨주세요!
 
+## 👨🏻‍💻첼린지 방법
+- 문제를 해결하고 문제를 공유하는 방법을 알려드겠습니다.
+- 첼린지를 fork해주세요. 그리고, problems와  table의 내용을 제거해주세요.
+- 각자 문제를 해결하고 해답을 공유해주세요.
+-  problems에 추가한 파일을 PR로 보내주세요! 
+	-  파일 이름 : 본인 github 이름-week-번호.md
+	- 아직 미완성된 기능이지만, 추후 블로그 형식으로 문제들을 공유할수 있게 제작하겠습니다.
+	
 ## 📖 챌린지 일지
 <table style="border-collapse: collapse; width: 100%; height: 54px;" border="1" data-ke-align="alignLeft" data-ke-style="style14">
 <tbody align ="center">
@@ -180,6 +188,14 @@
 
 </tbody>
 </table>
+
+## 🛠 업데이트 내역
+* 0.1.1
+	* 문제 유형별로 분류 /problems 추가
+	* 난이도 내용 추가
+* 0.1.0
+   	* 첼린지 공개
+
 
 ## 👀 Contact Me
 편하게 메일 혹은 블로그에 오셔서 댓글 남겨주시면 감사하겠습니다 :)   
