@@ -178,10 +178,10 @@
     <a href="https://cnu-jinseop.tistory.com/127">해설</a>
   </td>
   <td style="width: 4.88372%; height: 18px;">
-    <a href=""></a>
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/72411">메뉴리뉴얼</a>
   </td>
   <td style="width: 11.3372%; height: 18px;">
-    <a href="">해설</a>
+    <a href="https://cnu-jinseop.tistory.com/129">해설</a>
   </td>
 </tr>
 
@@ -239,3 +239,4 @@
 </tr>
 
 -->
+	
