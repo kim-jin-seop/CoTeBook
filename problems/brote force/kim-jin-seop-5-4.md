@@ -1,4 +1,4 @@
-# ★★★★★☆☆☆☆☆ 제목
+# ★★★☆☆ 메뉴 리뉴얼 
 - 난이도 : ★★★☆☆
 - 사용 언어 : Java
 - <a href="https://programmers.co.kr/learn/courses/30/lessons/72411">문제 바로가기</a>
