@@ -1,10 +1,16 @@
 package pgm_92342;
 
 public class Solution {
-    int[] result = new int[11];
-    int maxPoint = Integer.MIN_VALUE;
 
-    public int[] solution(int n, int[] info) {
+    public static void main(String[] args) {
+        solution(9, new int[]{0,0,1,2,0,1,1,1,1,1,1});
+        System.out.println("끝");
+    }
+
+    static int[] result = new int[11];
+    static int maxPoint = Integer.MIN_VALUE;
+
+    public static int[] solution(int n, int[] info) {
         int[] answer;
         shot(n, 0, info, new int[11]);
         if (maxPoint <= 0)
@@ -14,9 +20,13 @@ public class Solution {
         return answer;
     }
 
-    public void shot(int n, int start, int[] info, int[] shots) {
+    public static void shot(int n, int start, int[] info, int[] shots) {
         if (n == 0) {
             int calPoint = calPoint(info, shots);
+            System.out.print("calpoint == maxPoint : ");
+            System.out.println(calPoint == maxPoint);
+            System.out.println("calPoint = " + calPoint);
+            System.out.println("maxPoint = " + maxPoint);
             if (calPoint > maxPoint) {
                 maxPoint = calPoint;
                 for (int i = 0; i < result.length; i++) {
@@ -51,7 +61,7 @@ public class Solution {
         shots[10] -= n;
     }
 
-    public int calPoint(int[] info, int[] shots) {
+    public static int calPoint(int[] info, int[] shots) {
         int point = 0;
         for (int i = 0; i < info.length; i++) {
             if (info[i] == 0 && shots[i] == 0)
