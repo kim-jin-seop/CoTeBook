@@ -185,6 +185,36 @@
   </td>
 </tr>
 
+<tr style="height: 18px;">
+  <td style="width: 12.0349%; height: 18px;">
+    22년 </br>6주차(02.06 ~ 02.12)
+  </td>
+  <td style="width: 12.9651%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/60058">괄호 변환</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/130">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/17677">뉴스 클러스터링</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+   <a href="https://cnu-jinseop.tistory.com/131">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/81302">거리두기 확인하기</a>
+  </td>
+  <td style="width: 8.77907%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/132">해설</a>
+  </td>
+  <td style="width: 4.88372%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/67257">수식 최대화</a>
+  </td>
+  <td style="width: 11.3372%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/133">해설</a>
+  </td>
+</tr>
+
 
 </tbody>
 </table>
