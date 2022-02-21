@@ -215,6 +215,36 @@
   </td>
 </tr>
 
+<tr style="height: 18px;">
+  <td style="width: 12.0349%; height: 18px;">
+    22년 </br>7주차(02.13 ~ 02.19)
+  </td>
+  <td style="width: 12.9651%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/64065">튜플</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/135">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/42587">프린터</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+   <a href="https://cnu-jinseop.tistory.com/137">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/42746">가장 큰 수</a>
+  </td>
+  <td style="width: 8.77907%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/138">해설</a>
+  </td>
+  <td style="width: 4.88372%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/42839">소수찾기</a>
+  </td>
+  <td style="width: 11.3372%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/139">해설</a>
+  </td>
+</tr>
+
 
 </tbody>
 </table>
@@ -240,7 +270,7 @@
 
 <tr style="height: 18px;">
   <td style="width: 12.0349%; height: 18px;">
-    22년 </br>4주차(01.23 ~ 01.29)
+    22년 </br>7주차(02.13 ~ 02.19)
   </td>
   <td style="width: 12.9651%; height: 18px;">
     <a href=""></a>
