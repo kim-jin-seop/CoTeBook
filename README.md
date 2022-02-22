@@ -245,6 +245,36 @@
   </td>
 </tr>
 
+<tr style="height: 18px;">
+  <td style="width: 12.0349%; height: 18px;">
+    22년 </br>8주차(02.20 ~ 02.26)
+  </td>
+  <td style="width: 12.9651%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/42860">조이스틱</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/140">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href=""></a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+   <a href="">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href=""></a>
+  </td>
+  <td style="width: 8.77907%; height: 18px;">
+    <a href="">해설</a>
+  </td>
+  <td style="width: 4.88372%; height: 18px;">
+    <a href=""></a>
+  </td>
+  <td style="width: 11.3372%; height: 18px;">
+    <a href="">해설</a>
+  </td>
+</tr>
+
 
 </tbody>
 </table>
@@ -270,7 +300,7 @@
 
 <tr style="height: 18px;">
   <td style="width: 12.0349%; height: 18px;">
-    22년 </br>7주차(02.13 ~ 02.19)
+    22년 </br>8주차(02.20 ~ 02.26)
   </td>
   <td style="width: 12.9651%; height: 18px;">
     <a href=""></a>
