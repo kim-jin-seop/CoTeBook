@@ -1,14 +1,210 @@
-# 문서 제목
-주제 내용
+</tr>
+<tr style="height: 18px;">
+  <td style="width: 12.0349%; height: 18px;">
+    22년 3주차 </br>(01.09 ~ 01.15)
+  </td>
+  <td style="width: 12.9651%; height: 18px;">
+    <a href="https://www.acmicpc.net/problem/16197">두 동전</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/106">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+  <a href="https://www.acmicpc.net/problem/4574">스도미노쿠</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+   <a href="https://cnu-jinseop.tistory.com/108?category=933359">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/92334">신고결과 받기</a>
+  </td>
+  <td style="width: 8.77907%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/109">해설</a>
+  </td>
+  <td style="width: 4.88372%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/42888">오픈채팅방</a>
+  </td>
+  <td style="width: 11.3372%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/110">해설</a>
+  </td>
 
-## 소제목 1
-소제목 내용 1
+  <tr style="height: 18px;">
+  <td style="width: 12.0349%; height: 18px;">
+    22년 </br>3주차(01.16 ~ 01.22)
+  </td>
+  <td style="width: 12.9651%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/1835">단체사진 찍기</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/112">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/92341">주차요금 계산</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+   <a href="https://cnu-jinseop.tistory.com/114">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/92335#">k진수에서 소수 개수 구하기</a>
+  </td>
+  <td style="width: 8.77907%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/115">해설</a>
+  </td>
+  <td style="width: 4.88372%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/92342">양궁대회</a>
+  </td>
+  <td style="width: 11.3372%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/118">해설</a>
+  </td>
+</tr>
 
-## 소제목 2
-소제목 내용 2
+<tr style="height: 18px;">
+  <td style="width: 12.0349%; height: 18px;">
+    22년 </br>4주차(01.23 ~ 01.29)
+  </td>
+  <td style="width: 12.9651%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/62048">멀쩡한 삼각형</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/119">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/12899">124 나라의 숫자</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+   <a href="https://cnu-jinseop.tistory.com/120">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/42586">기능 개발</a>
+  </td>
+  <td style="width: 8.77907%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/121">해설</a>
+  </td>
+  <td style="width: 4.88372%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/42626#">더 맵게</a>
+  </td>
+  <td style="width: 11.3372%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/124">해설</a>
+  </td>
+</tr>
 
-### 소제목 2-1
-소제목 내용 2-1
 
-### 소제목 2-2
-소제목 내용 2-2
+<tr style="height: 18px;">
+  <td style="width: 12.0349%; height: 18px;">
+    22년 </br>5주차(01.30 ~ 02.05)
+  </td>
+  <td style="width: 12.9651%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/125">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/12973">짝지어 제거하기</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+   <a href="https://cnu-jinseop.tistory.com/126">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/77485">행렬 테두리 회전하기</a>
+  </td>
+  <td style="width: 8.77907%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/127">해설</a>
+  </td>
+  <td style="width: 4.88372%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/72411">메뉴리뉴얼</a>
+  </td>
+  <td style="width: 11.3372%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/129">해설</a>
+  </td>
+</tr>
+
+<tr style="height: 18px;">
+  <td style="width: 12.0349%; height: 18px;">
+    22년 </br>6주차(02.06 ~ 02.12)
+  </td>
+  <td style="width: 12.9651%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/60058">괄호 변환</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/130">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/17677">뉴스 클러스터링</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+   <a href="https://cnu-jinseop.tistory.com/131">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/81302">거리두기 확인하기</a>
+  </td>
+  <td style="width: 8.77907%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/132">해설</a>
+  </td>
+  <td style="width: 4.88372%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/67257">수식 최대화</a>
+  </td>
+  <td style="width: 11.3372%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/133">해설</a>
+  </td>
+</tr>
+
+<tr style="height: 18px;">
+  <td style="width: 12.0349%; height: 18px;">
+    22년 </br>7주차(02.13 ~ 02.19)
+  </td>
+  <td style="width: 12.9651%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/64065">튜플</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/135">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/42587">프린터</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+   <a href="https://cnu-jinseop.tistory.com/137">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/42746">가장 큰 수</a>
+  </td>
+  <td style="width: 8.77907%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/138">해설</a>
+  </td>
+  <td style="width: 4.88372%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/42839">소수찾기</a>
+  </td>
+  <td style="width: 11.3372%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/139">해설</a>
+  </td>
+</tr>
+
+<tr style="height: 18px;">
+  <td style="width: 12.0349%; height: 18px;">
+    22년 </br>8주차(02.20 ~ 02.26)
+  </td>
+  <td style="width: 12.9651%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/42860">조이스틱</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/140">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/142">게임 맵 최단거리</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+   <a href="https://cnu-jinseop.tistory.com/142">해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href=""></a>
+  </td>
+  <td style="width: 8.77907%; height: 18px;">
+    <a href="">해설</a>
+  </td>
+  <td style="width: 4.88372%; height: 18px;">
+    <a href=""></a>
+  </td>
+  <td style="width: 11.3372%; height: 18px;">
+    <a href="">해설</a>
+  </td>
+</tr>
