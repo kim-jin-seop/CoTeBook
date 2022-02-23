@@ -4,9 +4,12 @@
 set -e
 
 git pull
-git add -A
+git add .
+git config --local user.email "tjq2702@naver.com"
+git config --local user.name "kim-jin-seop"
 git commit -m "$1 $2 $3 --all.sh master"
-git push origin main
+git push
+
 
 # build
 npm run docs:build
