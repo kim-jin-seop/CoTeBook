@@ -1,3 +1,40 @@
+<table style="border-collapse: collapse; width: 100%; height: 54px;" border="1" data-ke-align="alignLeft" data-ke-style="style14">
+<tbody align ="center">
+<tr style="height: 18px;">
+<td style="width: 12.0349%; height: 36px;">일자</td>
+<td style="width: 25.4651%; height: 18px;" colspan="2">문제 1</td>
+<td style="width: 25%; height: 18px;" colspan="2">문제 2</td>
+<td style="width: 21.2791%; height: 18px;" colspan="2">문제 3</td>
+<td style="width: 16.2209%; height: 18px;" colspan="2">문제 4</td>
+</tr>
+<tr style="height: 18px;">
+  <td style="width: 12.0349%; height: 18px;">
+    22년 2주차</br>(01.02 ~ 01.08)
+  </td>
+  <td style="width: 12.9651%; height: 18px;">
+    <a href="https://programmers.co.kr/learn/courses/30/lessons/1829" target='_blank' >카카오 컬리링북</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/100?category=944632" target='_blank'>해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+     <a href="https://www.acmicpc.net/problem/14888" target='_blank'>연산자 끼워넣기</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    <a href="https://cnu-jinseop.tistory.com/102?category=933359" target='_blank'>해설</a>
+  </td>
+  <td style="width: 12.5%; height: 18px;">
+    ❌
+  </td>
+  <td style="width: 8.77907%; height: 18px;">
+    ❌
+  </td>
+  <td style="width: 4.88372%; height: 18px;">
+    ❌
+  </td>
+  <td style="width: 11.3372%; height: 18px;">
+    ❌
+  </td>
 </tr>
 <tr style="height: 18px;">
   <td style="width: 12.0349%; height: 18px;">
@@ -208,3 +245,7 @@
     <a href="">해설</a>
   </td>
 </tr>
+
+
+</tbody>
+</table>
