@@ -14,17 +14,7 @@ jobs:
 
     - name: Run build and commit
       run: |
-        set -e
-        npm run docs:build
-        cd docs/.vuepress/dist
-        git init
-        git add -A
-        git commit -m 'deploy'
-        git push -f https://github.com/kim-jin-seop/CodingTest.git master:gh-pages
-        cd -
-        
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v2
+        sh deploy.sh
       env:
         ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         PUBLISH_BRANCH: gh-pages
