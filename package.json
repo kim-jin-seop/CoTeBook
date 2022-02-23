@@ -1,27 +1,12 @@
 {
-  "name": "codingtest",
+  "name": "CodingTest",
   "version": "1.0.0",
-  "description": "<div align=\"center\">   <h2>👨🏻‍💻알고리즘 문제 해결 챌린지👨🏻‍💻</h2>   <p>매주 4문제 코딩테스트를 해결하고 풀이</p>   <a href=\"https://hits.seeyoufarm.com\"><img src=\"https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-jin-seop%2Fcodingtest-problem-solving&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false\"/></a>   <img src=\"https://img.shields.io/github/stars/kim-jin-seop/codingtest-problem-solving\" alt=\"stars\"/>   <img src=\"https://img.shields.io/github/forks/kim-jin-seop/codingtest-problem-solving\" alt=\"forks\"/> </div>",
   "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
+  "repository": "https://github.com/kim-jin-seop/codingTest.git",
+  "author": "kim-jin-seop <tjq2702@naver.com>",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:dev": "vuepress dev --port 8000",
+    "docs:build": "vuepress build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kim-jin-seop/codingTest.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kim-jin-seop/codingTest/issues"
-  },
-  "homepage": "https://github.com/kim-jin-seop/codingTest#readme",
-  "devDependencies": {
-    "vuepress": "^1.9.7"
-  }
+  "license": "MIT"
 }
