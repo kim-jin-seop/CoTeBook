@@ -3,16 +3,9 @@
 # abort on errors
 set -e
 
-git pull
-git add .
-git config --local user.email "tjq2702@naver.com"
-git config --local user.name "kim-jin-seop"
-git commit -m "$1 $2 $3 --all.sh master"
-git push
-
-
 # build
 npm run docs:build
+
 # navigate into the build output directory
 cd docs/.vuepress/dist
 
@@ -27,6 +20,6 @@ git commit -m 'deploy with vuepress'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:kim-jin-seop/codingTest.git master:gh-pages
+git push -f https://github.com/kim-jin-seop/codingTest.git master:gh-pages
 
 cd -
