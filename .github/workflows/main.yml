@@ -9,9 +9,6 @@ jobs:
   build-deploy:
     runs-on: ubuntu-18.04
     steps:
-    - name: checkout
-      uses: actions/checkout@v2
-
     - name: Run build and commit
       run: |
         sh deploy.sh
