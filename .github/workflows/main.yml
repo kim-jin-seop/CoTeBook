@@ -1,4 +1,4 @@
-name: GitHub Actions Build and Deploy 
+name: github pages
 
 on:
   push:
@@ -7,17 +7,22 @@ on:
 
 jobs:
   build-deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
     steps:
-    - uses: actions/checkout@master
-      
-    - run: yarn install
-      
-    - run: yarn build
-      
+    - uses: actions/checkout@v1
+
+    - name: Setup Node
+      uses: actions/setup-node@v1
+      with:
+        node-version: '10.x'
+
+    - run: npm install -D vuepress
+
+    - run: npm run docs:build
+
     - name: Deploy
-      uses: peaceiris/actions-gh-pages@v2.5.0
+      uses: peaceiris/actions-gh-pages@v2
       env:
-        ACTIONS_DEPLOY_KEY: ${{ secrets.ACCESS_TOKEN }}
+        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         PUBLISH_BRANCH: gh-pages
-        PUBLISH_DIR: docs/.vuepress/dist
+        PUBLISH_DIR: ./docs/.vuepress/dist
