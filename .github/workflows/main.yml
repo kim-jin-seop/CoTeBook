@@ -9,17 +9,20 @@ jobs:
   build-deploy:
     runs-on: ubuntu-18.04
     steps:
-    - uses: actions/checkout@v1
+    - name: checkout
+      uses: actions/checkout@v2
 
-    - name: Setup Node
-      uses: actions/setup-node@v1
-      with:
-        node-version: '10.x'
-
-    - run: npm install -D vuepress
-
-    - run: npm run docs:build
-
+    - name: Run build and commit
+      run: |
+        set -e
+        npm run docs:build
+        cd docs/.vuepress/dist
+        git init
+        git add -A
+        git commit -m 'deploy'
+        git push -f https://github.com/kim-jin-seop/CodingTest.git master:gh-pages
+        cd -
+        
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2
       env:
