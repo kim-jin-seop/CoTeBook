@@ -1,4 +1,4 @@
-{
+
   "name": "CodingTest",
   "version": "0.0.1",
   "description": "코딩테스트 대비 문제풀이",
@@ -9,8 +9,8 @@
   },
   "repository": "coding-test-challenge/CodingTest",
   "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "doc:dev": "vuepress dev src",
+    "doc:build": "vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {
