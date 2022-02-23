@@ -1,18 +1,16 @@
-name: github pages
-
-on:
-  push:
-    branches:
-    - master
-
+name: Build and Deploy
+on: [push]
 jobs:
-  build-deploy:
-    runs-on: ubuntu-18.04
+  build-and-deploy:
+    runs-on: ubuntu-latest
     steps:
-    - name: Run build and commit
-      run: |
-        sh deploy.sh
+    - name: Checkout
+      uses: actions/checkout@master
+
+    - name: Deploy Build Files
+      uses: jenkey2011/vuepress-deploy@1.0.1
       env:
-        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        PUBLISH_BRANCH: gh-pages
-        PUBLISH_DIR: ./docs/.vuepress/dist
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        BUILD_SCRIPT: yarn && yarn docs:build
+        TARGET_BRANCH: gh-pages
+        BUILD_DIR: docs/.vuepress/dist
