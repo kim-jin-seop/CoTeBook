@@ -29,3 +29,6 @@ backjoon/.idea/vcs.xml
 .DS_Store
 *.iml
 *.xml
+/secret_folder
+/build
+/node_modules
