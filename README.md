@@ -256,10 +256,10 @@
     <a href="https://cnu-jinseop.tistory.com/140">해설</a>
   </td>
   <td style="width: 12.5%; height: 18px;">
-    <a href=""></a>
+    <a href="https://cnu-jinseop.tistory.com/142">게임 맵 최단거리</a>
   </td>
   <td style="width: 12.5%; height: 18px;">
-   <a href="">해설</a>
+   <a href="https://cnu-jinseop.tistory.com/142">해설</a>
   </td>
   <td style="width: 12.5%; height: 18px;">
     <a href=""></a>
