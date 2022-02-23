@@ -1,0 +1,13 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+  "docs:dev": "vuepress dev --port 8000",
+  "docs:build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
