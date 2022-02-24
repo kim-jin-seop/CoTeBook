@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>👨🏻‍💻알고리즘 문제 해결 챌린지👨🏻‍💻</h2>
+  <h2>👨🏻‍💻코딩테스트 준비👨🏻‍💻</h2>
   <p>매주 4문제 코딩테스트를 해결하고 풀이</p>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-jin-seop%2Fcodingtest-problem-solving&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <img src="https://img.shields.io/github/stars/kim-jin-seop/codingtest-problem-solving" alt="stars"/>
