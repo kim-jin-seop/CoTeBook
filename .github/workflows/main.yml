@@ -1,25 +1,16 @@
-name: build & deploy
-on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+name: Build and Deploy
+on: [push]
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: checkout
-      uses: actions/checkout@v2
-    - name: Build
-      run: |
-        npm run docs:build      
+    - name: Checkout
+      uses: actions/checkout@master
+
     - name: Deploy Build Files
+      uses: jenkey2011/vuepress-deploy@1.0.1
       env:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }} 
-      run: |
-        cd docs/.vuepress/dist
-        git init
-        git add -A
-        git commit -m 'deploy'
-        git push -f https://github.com/kim-jin-seop/CodingTest.git master:gh-pages
-        cd -
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        BUILD_SCRIPT: yarn && yarn docs:build
+        TARGET_BRANCH: gh-pages
+        BUILD_DIR: docs/.vuepress/dist
