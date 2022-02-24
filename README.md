@@ -3,6 +3,11 @@
 코딩테스트를 준비하기위해 프로그래머스와 백준 알고리즘 문제를 해결하고 문제풀이를 블로그에 올립니다.
 매주 4문제를 풀고 공유하는 것을 목표로 하고있습니다. 제가 해결한 방법과 코드를 보시고 혹시나 더 좋은 방법이나 변경하면 좋을 것 같은 부분을 댓글 남겨주시면 감사하겠습니다!
 문제와 문제풀이를 정리하고 유형별로 문제를 분류하여 코딩테스트를 준비하는 사람들이 문제를 선별하고 준비함에 있어 참고할 수 있도록 도움을 주고자합니다.
+> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-jin-seop%2Fcodingtest-problem-solving&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+> <img src="https://img.shields.io/github/stars/kim-jin-seop/codingtest-problem-solving" alt="stars"/>
+> <img src="https://img.shields.io/github/forks/kim-jin-seop/codingtest-problem-solving" alt="forks"/>
+
+
 
 ## 📖 문제 보기
 
