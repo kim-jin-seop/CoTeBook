@@ -1,24 +1,13 @@
-<div align="center">
-  <h2>👨🏻‍💻코딩테스트 준비👨🏻‍💻</h2>
-  <p>매주 4문제 코딩테스트를 해결하고 풀이</p>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-jin-seop%2Fcodingtest-problem-solving&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  <img src="https://img.shields.io/github/stars/kim-jin-seop/codingtest-problem-solving" alt="stars"/>
-  <img src="https://img.shields.io/github/forks/kim-jin-seop/codingtest-problem-solving" alt="forks"/>
-</div>
-
+# 👨🏻‍💻코딩테스트 준비👨🏻‍💻
+코딩테스트를 준비하기위해 프로그래머스와 백준 알고리즘 문제를 해결합니다.
+매주 4문제를 푸는 것을 목표로 합니다. 
+문제와 문제풀이를 공유하여 코딩테스트를 준비하는 사람들에게 도움을 주고자합니다.
 ---  
-
-## 👋 챌린지 소개
-- 매주 4문제씩 알고리즘 문제사이트(백준, 프로그래머스 등)에서 문제를 해결한다.
-- 해결한 문제의 풀이를 티스토리 블로그에 포스팅한다.
-- 문제링크와 풀이링크를 레파지토리에 공유한다.
 
 ## 💬 환영해요
 - 풀이에 대한 궁금증은 블로그 댓글로 남겨주세요!
 - 매주 4문제씩 해결하고 멋진 풀이법을 공유하실 분 환영해요!
 - 저의 코드에서 개선되면 좋을 점들은 언제든지 남겨주세요!
-
-## 👨🏻‍💻첼린지 방법
 - 문제를 해결하고 문제를 공유하는 방법을 알려드겠습니다.
 - 첼린지를 fork해주세요. 그리고, problems와  table의 내용을 제거해주세요.
 - 각자 문제를 해결하고 해답을 공유해주세요.
