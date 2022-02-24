@@ -25,7 +25,7 @@ public class Solution {
     private boolean isPrime(long val) {
         if(val == 1L)
             return false;
-        
+
         for (long j = 2; j * j <= val; j++) {
             if (val % j == 0) {
                 return false;
@@ -40,3 +40,6 @@ public class Solution {
         return makeJinSu(n/k,k,n%k + result);
     }
 }```
+
+---
+<Comment />
