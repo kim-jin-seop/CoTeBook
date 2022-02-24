@@ -1,7 +1,7 @@
 # 👨🏻‍💻코딩테스트 준비   
-> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-jin-seop%2Fcodingtest-problem-solving&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-> <img src="https://img.shields.io/github/stars/kim-jin-seop/codingtest-problem-solving" alt="stars"/>
-> <img src="https://img.shields.io/github/forks/kim-jin-seop/codingtest-problem-solving" alt="forks"/>  
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-jin-seop%2Fcodingtest-problem-solving&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<img src="https://img.shields.io/github/stars/kim-jin-seop/codingtest-problem-solving" alt="stars"/>
+<img src="https://img.shields.io/github/forks/kim-jin-seop/codingtest-problem-solving" alt="forks"/>  
 > 코딩테스트를 준비하기위해 프로그래머스와 백준 알고리즘 문제를 해결하고 문제풀이를 공유합니다.   
 > 문제와 문제풀이를 정리하고 유형별로 문제를 분류하여 코딩테스트를 준비하는 사람들이 문제를 선별하고 준비함에 있어 참고할 수 있도록 도움을 주고자합니다.
 
