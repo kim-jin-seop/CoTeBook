@@ -1,25 +1,21 @@
 name: build & deploy
-
 on:
   push:
     branches: [ master ]
-
+  pull_request:
+    branches: [ master ]
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-
     steps:
     - name: checkout
       uses: actions/checkout@v2
-
     - name: Build
       run: |
         npm install
-        npm run docs:build
-        
+        npm run docs:build      
     - name: Deploy Build Files
       env:
-        # You should enroll ACEESS_TOKEN to repository's secret
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }} 
       run: |
         cd docs/.vuepress/dist
