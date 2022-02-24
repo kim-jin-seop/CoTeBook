@@ -18,8 +18,6 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }} 
       run: |
         cd docs/.vuepress/dist
-        git config --global user.email "tjq2702@naver.com"
-        git config --global user.name "kim-jin-seop"
         git init
         git add -A
         git commit -m 'deploy'
