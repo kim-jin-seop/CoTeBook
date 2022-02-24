@@ -1,4 +1,4 @@
-<table style="border-collapse: collapse; width: 100%; height: 54px;" border="1" data-ke-align="alignLeft" data-ke-style="style14">
+<table style="border-collapse: collapse; width: 100%; height: 100%;" border="1" data-ke-align="alignLeft" data-ke-style="style14">
 <tbody align ="center">
 <tr style="height: 18px;">
 <td style="width: 12.0349%; height: 36px;">일자</td>
