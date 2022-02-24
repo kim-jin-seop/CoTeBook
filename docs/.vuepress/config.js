@@ -1,5 +1,5 @@
 module.exports = {
-  title: "title",
+  title: "코딩테스트 준비 🔥",
   description: "desc",
   themeConfig: {
     nav: [{ text: "Github", link: "https://github.com/kim-jin-seop" }],
@@ -55,7 +55,7 @@ function makeSidebarObject(folder, mdfileList) {
       ? folder.substr(dotIdx + 1)
       : folder;
   } else {
-    title = "HOME";
+    title = "모두들 화이팅!";
   }
   return {
     title: title,
