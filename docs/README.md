@@ -127,6 +127,10 @@
 	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/1844) 
 	* [해설 바로가기](https://cnu-jinseop.tistory.com/142)
 	* [코드 바로가기](/DFS-BFS/kim-jin-seop-8-2.html)
+3. 피로도
+	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/87946) 
+	* [해설 바로가기](https://cnu-jinseop.tistory.com/143)
+	* [코드 바로가기](/BruteForce/kim-jin-seop-8-3.html)
 
 <!-- 입력 양식
 ## n주차

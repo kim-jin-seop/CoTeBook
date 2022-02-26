@@ -1,3 +1,11 @@
+# ★★☆☆☆ 피로도
+- 난이도 : ★★☆☆☆
+- <a href="https://programmers.co.kr/learn/courses/30/lessons/87946">문제 바로가기</a>
+- <a href="https://cnu-jinseop.tistory.com/143">풀이 바로가기</a>
+- 사용 언어 : Java
+
+### 구현코드
+```java
 package pgm_87946;
 
 public class Solution {
@@ -67,3 +75,8 @@ public class Solution {
         numbers[b] = temp;
     }
 }
+
+```
+
+---
+<Comment />
