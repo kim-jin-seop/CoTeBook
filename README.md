@@ -1,5 +1,5 @@
 # 👨🏻‍💻CoTeBook 
-## [코테북 바로가기](https://kim-jin-seop.github.io/CoTebook/)
+## [코테북 바로가기](https://kim-jin-seop.github.io/CoTeBook/)
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-jin-seop%2Fcodingtest-problem-solving&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <img src="https://img.shields.io/github/stars/kim-jin-seop/codingtest-problem-solving" alt="stars"/>
 <img src="https://img.shields.io/github/forks/kim-jin-seop/codingtest-problem-solving" alt="forks"/>  
@@ -8,7 +8,7 @@
 
 ## 📖 문제 보기
 
-해결한 문제들을 확인하시려면 [여기](https://kim-jin-seop.github.io/CoTebook/)를 눌러보세요!  
+해결한 문제들을 확인하시려면 [여기](https://kim-jin-seop.github.io/CoTeBook/)를 눌러보세요!  
 알고리즘 문제와 해결방법이 게시된 글에 대한 링크 그리고 문제에 대한 주관적인 난이도를 포함하였습니다.  
 매 주마다 해결한 문제들 그리고 유형별로 분류된 문제들을 제공합니다.  
 
