@@ -1,5 +1,5 @@
 {
-  "name": "codingtest",
+  "name": "CodingTest",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,10 +15,10 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kim-jin-seop/TIL/issues"
+    "url": "https://github.com/kim-jin-seop/CoTeBook/issues"
   },
-  "homepage": "https://github.com/kim-jin-seop/TIL#readme",
+  "homepage": "https://github.com/kim-jin-seop/CoTeBook#readme",
   "devDependencies": {
     "vuepress": "^1.9.7"
-  },
+  }
 }
