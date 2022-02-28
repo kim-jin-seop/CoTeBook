@@ -21,6 +21,6 @@ git commit -m 'deploy'
 # git push -f https://github.com/<USERNAME>/<REPO>.git master:gh-pages
 
 # 필자의 경우 TIL repository에 배포하기 때문에 아래와 같이 작성했다.
-git push -f https://github.com/kim-jin-seop/CodingTest.git master:gh-pages
+git push -f https://github.com/kim-jin-seop/CoTeBook.git master:gh-pages
 
 cd -
