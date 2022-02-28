@@ -136,6 +136,13 @@
 	* [해설 바로가기](https://cnu-jinseop.tistory.com/144)
 	* [코드 바로가기](/Sort/kim-jin-seop-8-4.html)
 
+## 9주차
+
+1. 예상 대진표
+	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/12985) 
+	* [해설 바로가기](https://cnu-jinseop.tistory.com/146)
+	* [코드 바로가기](/Math/kim-jin-seop-9-1.html)
+
 <!-- 입력 양식
 ## n주차
 
