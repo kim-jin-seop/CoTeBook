@@ -20,6 +20,5 @@
   "homepage": "https://github.com/kim-jin-seop/TIL#readme",
   "devDependencies": {
     "vuepress": "^1.9.7"
-    "node-forge": ">=1.0.0"
   }
 }
