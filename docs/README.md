@@ -142,6 +142,10 @@
 	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/12985) 
 	* [해설 바로가기](https://cnu-jinseop.tistory.com/146)
 	* [코드 바로가기](/Math/kim-jin-seop-9-1.html)
+2. 순위 검색
+	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/72412) 
+	* [해설 바로가기](https://cnu-jinseop.tistory.com/149)
+	* [코드 바로가기](/Impliments/kim-jin-seop-9-2.html)
 
 <!-- 입력 양식
 ## n주차
