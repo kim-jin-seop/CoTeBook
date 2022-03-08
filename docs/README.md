@@ -146,11 +146,17 @@
 	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/72412) 
 	* [해설 바로가기](https://cnu-jinseop.tistory.com/149)
 	* [코드 바로가기](/Impliments/kim-jin-seop-9-2.html)
-2. 후보키
+3. 후보키
 	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/42890) 
 	* [해설 바로가기](https://cnu-jinseop.tistory.com/153)
 	* [코드 바로가기](/BruteForce/kim-jin-seop-9-3.html)
 
+## 10주차
+
+1. 괄호 회전하기
+	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/76502) 
+	* [해설 바로가기](https://cnu-jinseop.tistory.com/155)
+	* [코드 바로가기](/Impliments/kim-jin-seop-10-1.html)
 	
 <!-- 입력 양식
 ## n주차
