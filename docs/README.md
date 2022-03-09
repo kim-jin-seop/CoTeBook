@@ -157,6 +157,11 @@
 	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/76502) 
 	* [해설 바로가기](https://cnu-jinseop.tistory.com/155)
 	* [코드 바로가기](/Impliments/kim-jin-seop-10-1.html)
+2. 배달
+	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/12978) 
+	* [해설 바로가기](https://cnu-jinseop.tistory.com/157)
+	* [코드 바로가기](/Impliments/kim-jin-seop-10-2.html)
+
 	
 <!-- 입력 양식
 ## n주차
