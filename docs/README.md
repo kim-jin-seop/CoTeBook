@@ -63,7 +63,7 @@
 4. 더맵게
 	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/42626) 
 	* [해설 바로가기](https://cnu-jinseop.tistory.com/124)
-	* [코드 바로가기](/DataStructure/kim-jin-seop-4-4.html)
+	* [코드 바로가기](/DataStructure/kim-jin-seop-4-4.html)  
 ## 5주차
 1. 타겟 넘버
 	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/43165) 
@@ -161,8 +161,11 @@
 	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/12978) 
 	* [해설 바로가기](https://cnu-jinseop.tistory.com/157)
 	* [코드 바로가기](/Impliments/kim-jin-seop-10-2.html)
+3. 프렌즈 4블럭
+	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/17679)
+	* [해설 바로가기](https://cnu-jinseop.tistory.com/158)
+	* [코드 바로가기](/Impliments/kim-jin-seop-10-3.html)
 
-	
 <!-- 입력 양식
 ## n주차
 
