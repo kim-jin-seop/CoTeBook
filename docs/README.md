@@ -165,6 +165,10 @@
 	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/17679)
 	* [해설 바로가기](https://cnu-jinseop.tistory.com/158)
 	* [코드 바로가기](/Impliments/kim-jin-seop-10-3.html)
+4. 다리를 지나가는 트럭
+	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/42583) 
+	* [해설 바로가기](https://cnu-jinseop.tistory.com/160)
+	* [코드 바로가기](/DataStructure/kim-jin-seop-10-4.html)
 
 <!-- 입력 양식
 ## n주차
