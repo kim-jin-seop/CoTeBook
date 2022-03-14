@@ -170,6 +170,13 @@
 	* [해설 바로가기](https://cnu-jinseop.tistory.com/160)
 	* [코드 바로가기](/DataStructure/kim-jin-seop-10-4.html)
 
+## 11주차
+
+1. 큰 수 만들기
+	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/42883) 
+	* [해설 바로가기](https://cnu-jinseop.tistory.com/161)
+	* [코드 바로가기](/Greedy/kim-jin-seop-11-1.html)
+
 <!-- 입력 양식
 ## n주차
 
