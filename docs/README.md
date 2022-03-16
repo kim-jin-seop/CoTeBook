@@ -177,7 +177,7 @@
 	* [해설 바로가기](https://cnu-jinseop.tistory.com/161)
 	* [코드 바로가기](/Greedy/kim-jin-seop-11-1.html)
 
-2. 제목
+2. 두개 이하로 다른 비트
 	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/77885) 
 	* [해설 바로가기](https://cnu-jinseop.tistory.com/162)
 	* [코드 바로가기](/Math/kim-jin-seop-11-2.html)
