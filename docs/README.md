@@ -181,7 +181,11 @@
 	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/77885) 
 	* [해설 바로가기](https://cnu-jinseop.tistory.com/162)
 	* [코드 바로가기](/Math/kim-jin-seop-11-2.html)
-
+	
+3. 영어 끝말잇기
+	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/12981) 
+	* [해설 바로가기](https://cnu-jinseop.tistory.com/163)
+	* [코드 바로가기](/DataStructure/kim-jin-seop-11-3.html)
 	
 <!-- 입력 양식
 ## n주차
