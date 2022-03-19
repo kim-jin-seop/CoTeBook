@@ -11,7 +11,7 @@
 	* [해설 바로가기](https://cnu-jinseop.tistory.com/102)
 	* [코드 바로가기](/BruteForce/kim-jin-seop-1-2.html)
 
-## 2주차
+## 2주차 
 1. 두 동전
 	* [문제 바로가기](https://www.acmicpc.net/problem/16197) 
 	* [해설 바로가기](https://cnu-jinseop.tistory.com/106)
