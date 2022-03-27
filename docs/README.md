@@ -186,6 +186,13 @@
 	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/12981) 
 	* [해설 바로가기](https://cnu-jinseop.tistory.com/163)
 	* [코드 바로가기](/DataStructure/kim-jin-seop-11-3.html)
+
+## 12주차
+
+2. 주식가격
+	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/42584?language=java) 
+	* [해설 바로가기](https://cnu-jinseop.tistory.com/164)
+	* [코드 바로가기](/Math/kim-jin-seop-12-1.html)
 	
 <!-- 입력 양식
 ## n주차
