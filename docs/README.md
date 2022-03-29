@@ -193,6 +193,13 @@
 	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/42584?language=java) 
 	* [해설 바로가기](https://cnu-jinseop.tistory.com/164)
 	* [코드 바로가기](/Math/kim-jin-seop-12-1.html)
+
+## 13주차
+
+1. 구명보트
+	* [문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/42885) 
+	* [해설 바로가기](https://cnu-jinseop.tistory.com/165)
+	* [코드 바로가기](/Greedy/kim-jin-seop-13-1.html)
 	
 <!-- 입력 양식
 ## n주차
